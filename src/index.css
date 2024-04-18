@@ -6,7 +6,7 @@ body{
   font-family: poppins;
 }
 
-img, video {
+img{
   max-width: inherit; 
    height: inherit;
-}
+} 
